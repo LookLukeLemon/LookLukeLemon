@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)
+[![next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
 ![nest.js](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![jotai](https://img.shields.io/badge/Jotai-black?style=for-the-badge&logo=jotai)
