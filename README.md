@@ -51,11 +51,36 @@
 [![winforms](https://img.shields.io/badge/winforms-black?style=for-the-badge&logo=winforms&logoColor=95478E)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms)
 
 ### Todo stack ✨
-[![trpc](https://img.shields.io/badge/trpc-black?style=for-the-badge&logo=trpc)](https://trpc.io/)
-[![zustand](https://img.shields.io/badge/zustand-black?style=for-the-badge&logo=zustand)](https://github.com/pmndrs/zustand)
-[![bun](https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun)](https://bun.sh/)
+[![trpc](https://img.shields.io/badge/trpc-DDF56D?style=for-the-badge&logo=trpc)](https://trpc.io/)
+[![zustand](https://img.shields.io/badge/zustand-DDF56D?style=for-the-badge&logo=zustand)](https://github.com/pmndrs/zustand)
+[![bun](https://img.shields.io/badge/bun-DDF56D?style=for-the-badge&logo=bun)](https://bun.sh/)
+
+- - -
+
+### InfinitySquare - NFT Marketplace, launchpad 👋
+
+
+           
+<table>
+  <tr>
+    <td>
+      <a href="https://infinitysquare.io">
+        <img src="ifsq/ifsq-landing-1.png" />
+      </a>
+    </td>
+    <td>
+      <a href="https://infinitysquare.io">
+        <img src="ifsq/ifsq-thumb-1.png" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 <!--
+<kbd><img src="ifsq/ifsq-thumb-1.png" width="480" /></kbd>&nbsp;&nbsp;&nbsp;<img src="ifsq/ifsq-thumb-1.png" width="480" />
 DDF56D
 **LookLukeLemon/LookLukeLemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
