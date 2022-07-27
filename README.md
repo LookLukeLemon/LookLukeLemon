@@ -1,4 +1,4 @@
-### Tech stack ⚡
+### Working Tech stack ⚡
 
 [![next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
 [![nest.js](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)
@@ -57,10 +57,8 @@
 
 - - -
 
-### InfinitySquare - NFT Marketplace, launchpad 👋
-
-
-           
+### 🔥 InfinitySquare - NFT Marketplace, launchpad
+<br/>
 <table>
   <tr>
     <td>
@@ -75,6 +73,20 @@
     </td>
   </tr>
 </table>
+
+[![next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
+[![nest.js](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)
+[![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![react-query](https://img.shields.io/badge/React--query-black?style=for-the-badge&logo=reactquery)](https://tanstack.com/query/)
+[![jotai](https://img.shields.io/badge/Jotai-black?style=for-the-badge&logo=jotai)](https://jotai.org/)
+[![react-hook-form](https://img.shields.io/badge/React--hook--form-black?style=for-the-badge&logo=reacthookform)](https://react-hook-form.com/)
+[![tailwindcss](https://img.shields.io/badge/Tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
+[![redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)](https://redis.io/)
+[![mysql](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![amazon-rds](https://img.shields.io/badge/Rds-black?style=for-the-badge&logo=amazonrds)](https://aws.amazon.com/rds/)
+[![nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx&logoColor=009639)](https://www.nginx.com/)
+[![vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
 
 
 
