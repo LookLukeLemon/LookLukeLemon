@@ -64,12 +64,12 @@
 <table>
   <tr>
     <td>
-      <a href="https://infinitysquare.io">
+      <a href="https://infinitysquare.io" target="_blank">
         <img src="ifsq/ifsq-landing-1.png" />
       </a>
     </td>
     <td>
-      <a href="https://infinitysquare.io">
+      <a href="https://infinitysquare.io" target="_blank">
         <img src="ifsq/ifsq-thumb-1.png" />
       </a>
     </td>
