@@ -23,6 +23,7 @@
 [![cssmodules](https://img.shields.io/badge/cssmodules-black?style=for-the-badge&logo=cssmodules)](https://github.com/css-modules/css-modules)
 [![headlessui](https://img.shields.io/badge/headlessui-black?style=for-the-badge&logo=headlessui)](https://headlessui.com/)
 [![antdesign](https://img.shields.io/badge/antdesign-black?style=for-the-badge&logo=antdesign&logoColor=0170FE)](https://ant.design/)
+[![sharp](https://img.shields.io/badge/sharp-black?style=for-the-badge&logo=sharp)](https://sharp.pixelplumbing.com/)
 [![express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)](https://redis.io/)
 [![firbase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
@@ -58,6 +59,7 @@
 [![winforms](https://img.shields.io/badge/winforms-black?style=for-the-badge&logo=winforms&logoColor=95478E)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms)
 
 
+
 ### Todo stack ✨
 [![trpc](https://img.shields.io/badge/trpc-DDF56D?style=for-the-badge&logo=trpc)](https://trpc.io/)
 [![zustand](https://img.shields.io/badge/zustand-DDF56D?style=for-the-badge&logo=zustand)](https://github.com/pmndrs/zustand)
@@ -89,6 +91,8 @@
 [![jotai](https://img.shields.io/badge/Jotai-black?style=for-the-badge&logo=jotai)](https://jotai.org/)
 [![react-hook-form](https://img.shields.io/badge/React--hook--form-black?style=for-the-badge&logo=reacthookform)](https://react-hook-form.com/)
 [![tailwindcss](https://img.shields.io/badge/Tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
+[![headlessui](https://img.shields.io/badge/headlessui-black?style=for-the-badge&logo=headlessui)](https://headlessui.com/)
+[![sharp](https://img.shields.io/badge/sharp-black?style=for-the-badge&logo=sharp)](https://sharp.pixelplumbing.com/)
 [![redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)](https://redis.io/)
 [![mysql](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![amazon-rds](https://img.shields.io/badge/Rds-black?style=for-the-badge&logo=amazonrds)](https://aws.amazon.com/rds/)
