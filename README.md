@@ -53,6 +53,7 @@
 ### Todo stack ✨
 [![trpc](https://img.shields.io/badge/trpc-black?style=for-the-badge&logo=trpc)](https://trpc.io/)
 [![zustand](https://img.shields.io/badge/zustand-DDF56D?style=for-the-badge&logo=zustand)](https://github.com/pmndrs/zustand)
+[![bun](https://img.shields.io/badge/bun-DDF56D?style=for-the-badge&logo=bun)](https://bun.sh/)
 
 <!--
 **LookLukeLemon/LookLukeLemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
