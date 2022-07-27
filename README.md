@@ -86,9 +86,44 @@
 [![mysql](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![amazon-rds](https://img.shields.io/badge/Rds-black?style=for-the-badge&logo=amazonrds)](https://aws.amazon.com/rds/)
 [![nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx&logoColor=009639)](https://www.nginx.com/)
+[![slack](https://img.shields.io/badge/Slack-black?style=for-the-badge&logo=slack&logoColor=FF6058)](https://slack.com/)
+[![lerna](https://img.shields.io/badge/lerna-black?style=for-the-badge&logo=lerna&logoColor=9333EA)](https://lerna.js.org/)
+[![elasticbeanstalk](https://img.shields.io/badge/elastic--beanstalk-black?style=for-the-badge&logo=elasticbeanstalk)](https://aws.amazon.com/elasticbeanstalk/)
 [![vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
+[![sentry](https://img.shields.io/badge/sentry-black?style=for-the-badge&logo=sentry&logoColor=E1567C)](https://sentry.io/)
+[![clarity](https://img.shields.io/badge/clarity-black?style=for-the-badge&logo=clarity&logoColor=DDF56D)](https://clarity-lang.org/)
+- - -
+### 🔥 Transtacks - Transfer Stacks coin, fungible tokens and NFT all together at once
+<br/>
+<table>
+  <tr>
+    <td>
+      <a href="https://infinitysquare.io" target="_blank">
+        <img src="transtacks/transtacks_1.jpg" />
+      </a>
+    </td>
+    <td>
+      <a href="https://infinitysquare.io" target="_blank">
+        <img src="transtacks/transtacks_2.jpg" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-
+[![next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
+[![nest.js](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)
+[![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![react-query](https://img.shields.io/badge/React--query-black?style=for-the-badge&logo=reactquery)](https://tanstack.com/query/)
+[![jotai](https://img.shields.io/badge/Jotai-black?style=for-the-badge&logo=jotai)](https://jotai.org/)
+[![tailwindcss](https://img.shields.io/badge/Tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
+[![express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
+[![mysql](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![amazon-rds](https://img.shields.io/badge/Rds-black?style=for-the-badge&logo=amazonrds)](https://aws.amazon.com/rds/)
+[![nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx&logoColor=009639)](https://www.nginx.com/)
+[![netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
+[![elasticbeanstalk](https://img.shields.io/badge/elastic--beanstalk-black?style=for-the-badge&logo=elasticbeanstalk)](https://aws.amazon.com/elasticbeanstalk/)
+[![clarity](https://img.shields.io/badge/clarity-black?style=for-the-badge&logo=clarity&logoColor=DDF56D)](https://clarity-lang.org/)
 
 
 <!--
