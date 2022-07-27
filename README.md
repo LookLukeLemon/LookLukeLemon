@@ -63,12 +63,12 @@
   <tr>
     <td>
       <a href="https://infinitysquare.io" target="_blank">
-        <img src="ifsq/ifsq-landing-1.png" />
+        <img src="ifsq/ifsq-1.jpg" />
       </a>
     </td>
     <td>
       <a href="https://infinitysquare.io" target="_blank">
-        <img src="ifsq/ifsq-thumb-1.png" />
+        <img src="ifsq/ifsq-2.jpg" />
       </a>
     </td>
   </tr>
@@ -98,12 +98,12 @@
 <table>
   <tr>
     <td>
-      <a href="https://infinitysquare.io" target="_blank">
+      <a href="https://transtacks.xyz/" target="_blank">
         <img src="transtacks/transtacks_1.jpg" />
       </a>
     </td>
     <td>
-      <a href="https://infinitysquare.io" target="_blank">
+      <a href="https://transtacks.xyz/" target="_blank">
         <img src="transtacks/transtacks_2.jpg" />
       </a>
     </td>
