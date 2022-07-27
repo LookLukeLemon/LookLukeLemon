@@ -77,7 +77,6 @@
 [![next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
 [![nest.js](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)
 [![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![react-query](https://img.shields.io/badge/React--query-black?style=for-the-badge&logo=reactquery)](https://tanstack.com/query/)
 [![jotai](https://img.shields.io/badge/Jotai-black?style=for-the-badge&logo=jotai)](https://jotai.org/)
 [![react-hook-form](https://img.shields.io/badge/React--hook--form-black?style=for-the-badge&logo=reacthookform)](https://react-hook-form.com/)
@@ -124,7 +123,36 @@
 [![netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
 [![elasticbeanstalk](https://img.shields.io/badge/elastic--beanstalk-black?style=for-the-badge&logo=elasticbeanstalk)](https://aws.amazon.com/elasticbeanstalk/)
 [![clarity](https://img.shields.io/badge/clarity-black?style=for-the-badge&logo=clarity&logoColor=DDF56D)](https://clarity-lang.org/)
+- - -
+### 🔥 Stxbet - A game that predicts and bets the price of the stack coin of the upcoming block
+<br/>
+<table>
+  <tr>
+    <td>
+      <a href="https://stxbet.com" target="_blank">
+        <img src="stxbet/stxbet-2.jpg" />
+      </a>
+    </td>
+    <td>
+      <a href="https://stxbet.com" target="_blank">
+        <img src="stxbet/stxbet-1.jpg" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+[![next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
+[![nest.js](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)
+[![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![swr](https://img.shields.io/badge/swr-black?style=for-the-badge&logo=swr)](https://swr.vercel.app/ko)
+[![i18next](https://img.shields.io/badge/i18next-black?style=for-the-badge&logo=i18next)](https://www.i18next.com/)
+[![tailwindcss](https://img.shields.io/badge/Tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
+[![mysql](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![amazon-rds](https://img.shields.io/badge/Rds-black?style=for-the-badge&logo=amazonrds)](https://aws.amazon.com/rds/)
+[![nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx&logoColor=009639)](https://www.nginx.com/)
+[![netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
+[![elasticbeanstalk](https://img.shields.io/badge/elastic--beanstalk-black?style=for-the-badge&logo=elasticbeanstalk)](https://aws.amazon.com/elasticbeanstalk/)
+[![clarity](https://img.shields.io/badge/clarity-black?style=for-the-badge&logo=clarity&logoColor=DDF56D)](https://clarity-lang.org/)
 
 <!--
 <kbd><img src="ifsq/ifsq-thumb-1.png" width="480" /></kbd>&nbsp;&nbsp;&nbsp;<img src="ifsq/ifsq-thumb-1.png" width="480" />
