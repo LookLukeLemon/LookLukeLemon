@@ -21,6 +21,7 @@
 [![styled-components](https://img.shields.io/badge/styled--components-black?style=for-the-badge&logo=styledcomponents)](https://styled-components.com/)
 [![sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://sass-lang.com/)
 [![cssmodules](https://img.shields.io/badge/cssmodules-black?style=for-the-badge&logo=cssmodules)](https://github.com/css-modules/css-modules)
+[![headlessui](https://img.shields.io/badge/headlessui-black?style=for-the-badge&logo=headlessui)](https://headlessui.com/)
 [![antdesign](https://img.shields.io/badge/antdesign-black?style=for-the-badge&logo=antdesign&logoColor=0170FE)](https://ant.design/)
 [![express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)](https://redis.io/)
@@ -49,10 +50,13 @@
 [![solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)](https://docs.soliditylang.org/)
 [![clarity](https://img.shields.io/badge/clarity-black?style=for-the-badge&logo=clarity&logoColor=DDF56D)](https://clarity-lang.org/)
 [![nodejs](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
+[![lodash](https://img.shields.io/badge/lodash-black?style=for-the-badge&logo=lodash)](https://lodash.com/)
+[![stacksjs](https://img.shields.io/badge/stacks.js-black?style=for-the-badge&logo=stacksjs)](https://www.hiro.so/stacks-js)
 [![csharp](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=95478E)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![wpf](https://img.shields.io/badge/wpf-black?style=for-the-badge&logo=wpf&logoColor=95478E)](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview)
 [![prism](https://img.shields.io/badge/prism-black?style=for-the-badge&logo=prism&logoColor=95478E)](https://prismlibrary.com/docs/)
 [![winforms](https://img.shields.io/badge/winforms-black?style=for-the-badge&logo=winforms&logoColor=95478E)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms)
+
 
 ### Todo stack ✨
 [![trpc](https://img.shields.io/badge/trpc-DDF56D?style=for-the-badge&logo=trpc)](https://trpc.io/)
@@ -150,6 +154,7 @@
 [![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![swr](https://img.shields.io/badge/swr-black?style=for-the-badge&logo=swr)](https://swr.vercel.app/ko)
 [![i18next](https://img.shields.io/badge/i18next-black?style=for-the-badge&logo=i18next)](https://www.i18next.com/)
+[![framer](https://img.shields.io/badge/framer-black?style=for-the-badge&logo=framer)](https://www.framer.com/docs/)
 [![tailwindcss](https://img.shields.io/badge/Tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![mysql](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![amazon-rds](https://img.shields.io/badge/Rds-black?style=for-the-badge&logo=amazonrds)](https://aws.amazon.com/rds/)
@@ -157,10 +162,42 @@
 [![netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
 [![elasticbeanstalk](https://img.shields.io/badge/elastic--beanstalk-black?style=for-the-badge&logo=elasticbeanstalk)](https://aws.amazon.com/elasticbeanstalk/)
 [![clarity](https://img.shields.io/badge/clarity-black?style=for-the-badge&logo=clarity&logoColor=DDF56D)](https://clarity-lang.org/)
+- - -
+### 🔥 CitycoinBeach - Analyze citycoin mining, stacking, and rewards tracking
+<br/>
+<table>
+  <tr>
+    <td>
+      <a href="https://citycoinbeach.com" target="_blank">
+        <img src="citycoinbeach/citycoinbeach-2.jpg" />
+      </a>
+    </td>
+    <td>
+      <a href="https://citycoinbeach.com" target="_blank">
+        <img src="citycoinbeach/citycoinbeach-1.jpg" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+[![next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
+[![nest.js](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)
+[![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![swr](https://img.shields.io/badge/swr-black?style=for-the-badge&logo=swr)](https://swr.vercel.app/ko)
+[![nivojs](https://img.shields.io/badge/nivo-black?style=for-the-badge&logo=nivo)](https://nivo.rocks/)
+[![framer](https://img.shields.io/badge/framer-black?style=for-the-badge&logo=framer)](https://www.framer.com/docs/)
+[![tailwindcss](https://img.shields.io/badge/Tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
+[![headlessui](https://img.shields.io/badge/headlessui-black?style=for-the-badge&logo=headlessui)](https://headlessui.com/)
+[![mysql](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![amazon-rds](https://img.shields.io/badge/Rds-black?style=for-the-badge&logo=amazonrds)](https://aws.amazon.com/rds/)
+[![nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx&logoColor=009639)](https://www.nginx.com/)
+[![netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
+[![elasticbeanstalk](https://img.shields.io/badge/elastic--beanstalk-black?style=for-the-badge&logo=elasticbeanstalk)](https://aws.amazon.com/elasticbeanstalk/)
+[![clarity](https://img.shields.io/badge/clarity-black?style=for-the-badge&logo=clarity&logoColor=DDF56D)](https://clarity-lang.org/)
+[![lodash](https://img.shields.io/badge/lodash-black?style=for-the-badge&logo=lodash)](https://lodash.com/)
 <!--
-<kbd><img src="ifsq/ifsq-thumb-1.png" width="480" /></kbd>&nbsp;&nbsp;&nbsp;<img src="ifsq/ifsq-thumb-1.png" width="480" />
-DDF56D
+
+
 **LookLukeLemon/LookLukeLemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
