@@ -103,6 +103,7 @@
 [![vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
 [![sentry](https://img.shields.io/badge/sentry-black?style=for-the-badge&logo=sentry&logoColor=E1567C)](https://sentry.io/)
 [![clarity](https://img.shields.io/badge/clarity-black?style=for-the-badge&logo=clarity&logoColor=DDF56D)](https://clarity-lang.org/)
+[![stacksjs](https://img.shields.io/badge/stacks.js-black?style=for-the-badge&logo=stacksjs)](https://www.hiro.so/stacks-js)
 - - -
 ### 🔥 Transtacks - Transfer Stacks coin, fungible tokens and NFT all together at once
 <br/>
@@ -135,6 +136,7 @@
 [![netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
 [![elasticbeanstalk](https://img.shields.io/badge/elastic--beanstalk-black?style=for-the-badge&logo=elasticbeanstalk)](https://aws.amazon.com/elasticbeanstalk/)
 [![clarity](https://img.shields.io/badge/clarity-black?style=for-the-badge&logo=clarity&logoColor=DDF56D)](https://clarity-lang.org/)
+[![stacksjs](https://img.shields.io/badge/stacks.js-black?style=for-the-badge&logo=stacksjs)](https://www.hiro.so/stacks-js)
 - - -
 ### 🔥 Stxbet - A game that predicts and bets the price of the stack coin of the upcoming block
 <br/>
@@ -166,6 +168,7 @@
 [![netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
 [![elasticbeanstalk](https://img.shields.io/badge/elastic--beanstalk-black?style=for-the-badge&logo=elasticbeanstalk)](https://aws.amazon.com/elasticbeanstalk/)
 [![clarity](https://img.shields.io/badge/clarity-black?style=for-the-badge&logo=clarity&logoColor=DDF56D)](https://clarity-lang.org/)
+[![stacksjs](https://img.shields.io/badge/stacks.js-black?style=for-the-badge&logo=stacksjs)](https://www.hiro.so/stacks-js)
 - - -
 ### 🔥 CitycoinBeach - Analyze citycoin mining, stacking, and rewards tracking
 <br/>
@@ -199,6 +202,7 @@
 [![elasticbeanstalk](https://img.shields.io/badge/elastic--beanstalk-black?style=for-the-badge&logo=elasticbeanstalk)](https://aws.amazon.com/elasticbeanstalk/)
 [![clarity](https://img.shields.io/badge/clarity-black?style=for-the-badge&logo=clarity&logoColor=DDF56D)](https://clarity-lang.org/)
 [![lodash](https://img.shields.io/badge/lodash-black?style=for-the-badge&logo=lodash)](https://lodash.com/)
+[![stacksjs](https://img.shields.io/badge/stacks.js-black?style=for-the-badge&logo=stacksjs)](https://www.hiro.so/stacks-js)
 <!--
 
 
