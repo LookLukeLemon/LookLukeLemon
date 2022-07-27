@@ -1,4 +1,4 @@
-### Working Tech stack ⚡
+### My Full Tech stack ⚡
 
 [![next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
 [![nest.js](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)
