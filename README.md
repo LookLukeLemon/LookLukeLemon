@@ -1,15 +1,19 @@
-### Hi there 👋
+### Tech stack ⚡
 
 [![next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
 [![nest.js](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)
 [![d3.js](https://img.shields.io/badge/d3.js-black?style=for-the-badge&logo=d3dotjs)](https://d3js.org/)
 [![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![jotai](https://img.shields.io/badge/Jotai-DDF56D?style=for-the-badge&logo=jotai)](https://jotai.org/)
 [![react-query](https://img.shields.io/badge/React--query-black?style=for-the-badge&logo=reactquery)](https://tanstack.com/query/)
+[![swr](https://img.shields.io/badge/swr-DDF56D?style=for-the-badge&logo=swr)](https://swr.vercel.app/ko)
+[![graphql](https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql&logoColor=E00097)](https://graphql.org/)
+[![prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
+[![jotai](https://img.shields.io/badge/Jotai-DDF56D?style=for-the-badge&logo=jotai)](https://jotai.org/)
 [![redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)](https://redux.js.org/introduction/getting-started/)
 [![mobx](https://img.shields.io/badge/Mobx-black?style=for-the-badge&logo=mobx)](https://mobx.js.org/README.html)
 [![react-hook-form](https://img.shields.io/badge/React--hook--form-black?style=for-the-badge&logo=reacthookform)](https://react-hook-form.com/)
+[![nivojs](https://img.shields.io/badge/nivo-DDF56D?style=for-the-badge&logo=nivo)](https://nivo.rocks/)
 [![tailwindcss](https://img.shields.io/badge/Tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![styled-components](https://img.shields.io/badge/styled--components-black?style=for-the-badge&logo=styledcomponents)](https://styled-components.com/)
 [![sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://sass-lang.com/)
@@ -46,7 +50,9 @@
 [![prism](https://img.shields.io/badge/prism-DDF56D?style=for-the-badge&logo=prism&logoColor=95478E)](https://prismlibrary.com/docs/)
 [![winforms](https://img.shields.io/badge/winforms-DDF56D?style=for-the-badge&logo=winforms&logoColor=95478E)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms)
 
-
+### Todo stack ✨
+[![trpc](https://img.shields.io/badge/trpc-black?style=for-the-badge&logo=trpc)](https://trpc.io/)
+[![zustand](https://img.shields.io/badge/zustand-DDF56D?style=for-the-badge&logo=zustand)](https://github.com/pmndrs/zustand)
 
 <!--
 **LookLukeLemon/LookLukeLemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,4 +67,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👋
 -->
