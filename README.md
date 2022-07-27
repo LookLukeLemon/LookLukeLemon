@@ -6,14 +6,14 @@
 [![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![react-query](https://img.shields.io/badge/React--query-black?style=for-the-badge&logo=reactquery)](https://tanstack.com/query/)
-[![swr](https://img.shields.io/badge/swr-DDF56D?style=for-the-badge&logo=swr)](https://swr.vercel.app/ko)
+[![swr](https://img.shields.io/badge/swr-black?style=for-the-badge&logo=swr)](https://swr.vercel.app/ko)
 [![graphql](https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql&logoColor=E00097)](https://graphql.org/)
 [![prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
-[![jotai](https://img.shields.io/badge/Jotai-DDF56D?style=for-the-badge&logo=jotai)](https://jotai.org/)
+[![jotai](https://img.shields.io/badge/Jotai-black?style=for-the-badge&logo=jotai)](https://jotai.org/)
 [![redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)](https://redux.js.org/introduction/getting-started/)
 [![mobx](https://img.shields.io/badge/Mobx-black?style=for-the-badge&logo=mobx)](https://mobx.js.org/README.html)
 [![react-hook-form](https://img.shields.io/badge/React--hook--form-black?style=for-the-badge&logo=reacthookform)](https://react-hook-form.com/)
-[![nivojs](https://img.shields.io/badge/nivo-DDF56D?style=for-the-badge&logo=nivo)](https://nivo.rocks/)
+[![nivojs](https://img.shields.io/badge/nivo-black?style=for-the-badge&logo=nivo)](https://nivo.rocks/)
 [![tailwindcss](https://img.shields.io/badge/Tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![styled-components](https://img.shields.io/badge/styled--components-black?style=for-the-badge&logo=styledcomponents)](https://styled-components.com/)
 [![sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://sass-lang.com/)
@@ -36,26 +36,27 @@
 [![lerna](https://img.shields.io/badge/lerna-black?style=for-the-badge&logo=lerna&logoColor=9333EA)](https://lerna.js.org/)
 [![i18next](https://img.shields.io/badge/i18next-black?style=for-the-badge&logo=i18next)](https://www.i18next.com/)
 [![awsamplify](https://img.shields.io/badge/awsamplify-black?style=for-the-badge&logo=awsamplify)](https://aws.amazon.com/amplify/)
-[![elasticbeanstalk](https://img.shields.io/badge/elastic--beanstalk-DDF56D?style=for-the-badge&logo=elasticbeanstalk)](https://aws.amazon.com/elasticbeanstalk/)
+[![elasticbeanstalk](https://img.shields.io/badge/elastic--beanstalk-black?style=for-the-badge&logo=elasticbeanstalk)](https://aws.amazon.com/elasticbeanstalk/)
 [![jwt](https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=jsonwebtokens&logoColor=D63AFF)](https://jwt.io/)
 [![jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira&logoColor=0747A6)](https://jira.atlassian.com/)
 [![asana](https://img.shields.io/badge/asana-black?style=for-the-badge&logo=asana&logoColor=F06A6A)](https://asana.com/)
 [![trello](https://img.shields.io/badge/trello-black?style=for-the-badge&logo=trello&logoColor=CAB6CD)](https://trello.com/)
 [![sentry](https://img.shields.io/badge/sentry-black?style=for-the-badge&logo=sentry&logoColor=E1567C)](https://sentry.io/)
 [![solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)](https://docs.soliditylang.org/)
-[![clarity](https://img.shields.io/badge/clarity-DDF56D?style=for-the-badge&logo=clarity&logoColor=DDF56D)](https://clarity-lang.org/)
+[![clarity](https://img.shields.io/badge/clarity-black?style=for-the-badge&logo=clarity&logoColor=DDF56D)](https://clarity-lang.org/)
 [![nodejs](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
 [![csharp](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=95478E)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![wpf](https://img.shields.io/badge/wpf-DDF56D?style=for-the-badge&logo=wpf&logoColor=95478E)](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview)
-[![prism](https://img.shields.io/badge/prism-DDF56D?style=for-the-badge&logo=prism&logoColor=95478E)](https://prismlibrary.com/docs/)
-[![winforms](https://img.shields.io/badge/winforms-DDF56D?style=for-the-badge&logo=winforms&logoColor=95478E)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms)
+[![wpf](https://img.shields.io/badge/wpf-black?style=for-the-badge&logo=wpf&logoColor=95478E)](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview)
+[![prism](https://img.shields.io/badge/prism-black?style=for-the-badge&logo=prism&logoColor=95478E)](https://prismlibrary.com/docs/)
+[![winforms](https://img.shields.io/badge/winforms-black?style=for-the-badge&logo=winforms&logoColor=95478E)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms)
 
 ### Todo stack ✨
 [![trpc](https://img.shields.io/badge/trpc-black?style=for-the-badge&logo=trpc)](https://trpc.io/)
-[![zustand](https://img.shields.io/badge/zustand-DDF56D?style=for-the-badge&logo=zustand)](https://github.com/pmndrs/zustand)
-[![bun](https://img.shields.io/badge/bun-DDF56D?style=for-the-badge&logo=bun)](https://bun.sh/)
+[![zustand](https://img.shields.io/badge/zustand-black?style=for-the-badge&logo=zustand)](https://github.com/pmndrs/zustand)
+[![bun](https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun)](https://bun.sh/)
 
 <!--
+DDF56D
 **LookLukeLemon/LookLukeLemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
