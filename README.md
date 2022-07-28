@@ -149,7 +149,7 @@
 [![lodash](https://img.shields.io/badge/lodash-black?style=for-the-badge&logo=lodash)](https://lodash.com/)
 [![stacksjs](https://img.shields.io/badge/stacks.js-black?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MCIgaGVpZ2h0PSIyNSIgdmlld0JveD0iMCAwIDM4IDMwIiBmaWxsPSJub25lIj4KICAgIDxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNOS40MzYyMyAyOEg5LjQzNjY5SDI4Ljg2NDdWMEg5LjQzNjY5SDkuNDM2MjNWMC4wMDA2ODc2MTRMMCAxNEw5LjQzNjIzIDI3Ljk5OTNWMjhaTTI2LjA5IDExLjQ0MzNIMjEuOTQxOUwyNC44NTQ5IDdIMjIuNjUyN0wxOS4xNDU0IDEyLjM2MDJMMTUuNjQ5OCA3SDEzLjQ0NzZMMTYuMzYwNiAxMS40NDMzSDEyLjIxMjVWMTMuMTU5NUgyNi4wOVYxMS40NDMzWk0yOC44NjU4IDI4TDM4LjMwMjUgMTRMMjguODY1OCAwVjI4Wk0yMS44NjAzIDE2LjQ5NzlMMjQuODA4MyAyMUgyMi42MDZMMTkuMTQ1NCAxNS43MTAzTDE1LjY4NDggMjFIMTMuNDk0MkwxNi40NDIyIDE2LjUwOTdIMTIuMjEyNVYxNC44MDUySDI2LjA5VjE2LjQ5NzlIMjEuODYwM1oiIGZpbGw9IndoaXRlIj48L3BhdGg+Cjwvc3ZnPg==)](https://www.hiro.so/stacks-js)
 - - -
-### 🔥 ColorInfluencer - A service that extracts representative color values from commercial sites
+### 🔥 ColorInfluencer - Extracts representative color values from commercial sites
 <br/>
 <table>
   <tr>
