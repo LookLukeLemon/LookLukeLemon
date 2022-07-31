@@ -239,6 +239,7 @@
 [![mongodb](https://img.shields.io/badge/Mongodb-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![amazon-rds](https://img.shields.io/badge/Rds-black?style=for-the-badge&logo=amazonrds)](https://aws.amazon.com/rds/)
 [![docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
 [![nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx&logoColor=009639)](https://www.nginx.com/)
 [![heroku](https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku&logoColor=79589F)](https://www.heroku.com/)
 [![netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
