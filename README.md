@@ -231,6 +231,8 @@
 [![headlessui](https://img.shields.io/badge/headlessui-black?style=for-the-badge&logo=headlessui)](https://headlessui.com/)
 [![antdesign](https://img.shields.io/badge/antdesign-black?style=for-the-badge&logo=antdesign&logoColor=0170FE)](https://ant.design/)
 [![sharp](https://img.shields.io/badge/sharp-black?style=for-the-badge&logo=sharp)](https://sharp.pixelplumbing.com/)
+[![socket-io](https://img.shields.io/badge/socket--io-black?style=for-the-badge&logo=socketdotio)](https://socket.io/)
+[![webrtc](https://img.shields.io/badge/webrtc-black?style=for-the-badge&logo=webrtc)](https://webrtc.org/)
 [![express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)](https://redis.io/)
 [![firbase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
