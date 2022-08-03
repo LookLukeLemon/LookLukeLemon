@@ -165,6 +165,7 @@
 
 [![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+[![d3.js](https://img.shields.io/badge/d3.js-black?style=for-the-badge&logo=d3dotjs)](https://d3js.org/)
 [![mobx](https://img.shields.io/badge/Mobx-black?style=for-the-badge&logo=mobx)](https://mobx.js.org/README.html)
 [![sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://sass-lang.com/)
 [![antdesign](https://img.shields.io/badge/antdesign-black?style=for-the-badge&logo=antdesign&logoColor=0170FE)](https://ant.design/)
