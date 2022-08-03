@@ -9,6 +9,7 @@
 - - -
 
 ### 🔥 InfinitySquare - Supporting all Stacks-based tokens, Infinity Square is the most optimized platform for the stacks ecosystem, covering NFT trading, management and Defi.
+[![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
 <br/>
 <table>
   <tr>
@@ -48,6 +49,7 @@
 
 - - -
 ### 🔥 Transtacks - Transfer Stacks coin, fungible tokens and NFT all together at once
+[![stability-release-candidate](https://img.shields.io/badge/stability-pre--release-48c9b0.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#release-candidate)
 <br/>
 <table>
   <tr>
@@ -81,6 +83,7 @@
 
 - - -
 ### 🔥 Stxbet - A game that predicts and bets the price of the stacks coin of the upcoming block
+[![stability-release-candidate](https://img.shields.io/badge/stability-pre--release-48c9b0.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#release-candidate)
 <br/>
 <table>
   <tr>
@@ -113,6 +116,7 @@
 
 - - -
 ### 🔥 CitycoinBeach - Analyze citycoin mining, stacking, and rewards tracking
+[![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
 <br/>
 <table>
   <tr>
@@ -147,6 +151,7 @@
 [![stacksjs](https://img.shields.io/badge/stacks.js-black?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MCIgaGVpZ2h0PSIyNSIgdmlld0JveD0iMCAwIDM4IDMwIiBmaWxsPSJub25lIj4KICAgIDxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNOS40MzYyMyAyOEg5LjQzNjY5SDI4Ljg2NDdWMEg5LjQzNjY5SDkuNDM2MjNWMC4wMDA2ODc2MTRMMCAxNEw5LjQzNjIzIDI3Ljk5OTNWMjhaTTI2LjA5IDExLjQ0MzNIMjEuOTQxOUwyNC44NTQ5IDdIMjIuNjUyN0wxOS4xNDU0IDEyLjM2MDJMMTUuNjQ5OCA3SDEzLjQ0NzZMMTYuMzYwNiAxMS40NDMzSDEyLjIxMjVWMTMuMTU5NUgyNi4wOVYxMS40NDMzWk0yOC44NjU4IDI4TDM4LjMwMjUgMTRMMjguODY1OCAwVjI4Wk0yMS44NjAzIDE2LjQ5NzlMMjQuODA4MyAyMUgyMi42MDZMMTkuMTQ1NCAxNS43MTAzTDE1LjY4NDggMjFIMTMuNDk0MkwxNi40NDIyIDE2LjUwOTdIMTIuMjEyNVYxNC44MDUySDI2LjA5VjE2LjQ5NzlIMjEuODYwM1oiIGZpbGw9IndoaXRlIj48L3BhdGg+Cjwvc3ZnPg==)](https://www.hiro.so/stacks-js)
 - - -
 ### 🔥 Dataisyummy - Visualize meaningful data and show it beautifully
+[![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
 <br/>
 <table>
   <tr>
@@ -178,6 +183,7 @@
 [![aws-s3](https://img.shields.io/badge/aws--s3-black?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNzQuMzc1IDg1IiBmaWxsPSIjZmZmIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48dXNlIHhsaW5rOmhyZWY9IiNBIiB4PSIyLjE4OCIgeT0iMi41Ii8+PHN5bWJvbCBpZD0iQSIgb3ZlcmZsb3c9InZpc2libGUiPjxnIHN0cm9rZT0ibm9uZSI+PHBhdGggZD0iTTUuNjM0IDEzLjg4M0wwIDE2LjU0NnY0Ni44bDUuNjM0IDIuNjYzIDEzLjgyNy0yNi4wNjhMNS42MzQgMTMuODgzeiIgZmlsbD0iIzhjMzEyMyIvPjxwYXRoIGQ9Ik0zNSA1OS4yNzhMNS42MzQgNjZWMTMuODgzTDM1IDIwLjYwNSA0OC44NzggNDAuMDIgMzUgNTkuMjc4eiIgZmlsbD0iI2UwNTI0MyIvPjxwYXRoIGQ9Ik0zNSA1OS4yNzhMNjQuMzU2IDY2bDUuMDc3LTI1LjM5NS01LjA3Ny0yNi43MjJMMzUgMjAuNjA1djM4LjY3M3oiIGZpbGw9IiM4YzMxMjMiLz48cGF0aCBkPSJNNjQuMzU2IDEzLjg4M0w3MCAxNi41NDZ2NDYuOGwtNS42NDQgMi42NjNWMTMuODgzeiIgZmlsbD0iI2UwNTI0MyIvPjxwYXRoIGQ9Ik0yMi4xOTUgNDguNTY2TDM1IDUwLjExNyA0NS4xNTMgNDAuMDIgMzUgMjkuOTMybC0xMi44MDUgMS41MjJ2MTcuMTEyeiIgZmlsbD0iIzhjMzEyMyIvPjxwYXRoIGQ9Ik00Ny44MDUgMjMuMTcxTDM1IDI1LjM3NmwtMTIuODA1LTIuMjA1TDM1IDBsMTIuODA1IDIzLjE3MXoiIGZpbGw9IiM1ZTFmMTgiLz48cGF0aCBkPSJNNDcuODA1IDU2LjgyOUwzNSA1NC42MDVsLTEyLjgwNSAyLjIyNEwzNSA4MGwxMi44MDUtMjMuMTcxeiIgZmlsbD0iI2YyYjBhOSIvPjxwYXRoIGQ9Ik00Ny44MDUgMjMuMTcxTDM1IDIwLjE3NlYwbDEyLjgwNSA2LjA0OXYxNy4xMjJ6IiBmaWxsPSIjZTA1MjQzIi8+PHBhdGggZD0iTTIyLjE5NSAyMy4xNzFMMzUgMjAuMTc2VjBMMjIuMTk1IDYuMDQ5djE3LjEyMnoiIGZpbGw9IiM4YzMxMjMiLz48cGF0aCBkPSJNMzUgODBsMTIuODA1LTYuMDQ5VjU2LjgyOUwzNSA1OS44MjRWODB6IiBmaWxsPSIjZTA1MjQzIi8+PHBhdGggZD0iTTM1IDgwbC0xMi44MDUtNi4wNDlWNTYuODI5TDM1IDU5LjgyNFY4MHoiIGZpbGw9IiM4YzMxMjMiLz48cGF0aCBkPSJNNDcuODA1IDQ4LjU2NkwzNSA1MC4xMTdWMjkuOTMybDEyLjgwNSAxLjUyMnYxNy4xMTJ6IiBmaWxsPSIjZTA1MjQzIi8+PC9nPjwvc3ltYm9sPjwvc3ZnPg==)](https://aws.amazon.com/s3/)
 - - -
 ### 🔥 ColorInfluencer - Extracts representative color values from commercial sites
+[![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
 <br/>
 <table>
   <tr>
