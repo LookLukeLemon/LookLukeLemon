@@ -285,6 +285,7 @@
 [![heroku](https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku&logoColor=79589F)](https://www.heroku.com/)
 [![netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
 [![vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
+[![heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)](https://www.heroku.com/)
 [![slack](https://img.shields.io/badge/Slack-black?style=for-the-badge&logo=slack&logoColor=FF6058)](https://slack.com/)
 [![gitactions](https://img.shields.io/badge/github--actions-black?style=for-the-badge&logo=githubactions)](https://github.com/features/actions)
 [![githubpages](https://img.shields.io/badge/github--pages-black?style=for-the-badge&logo=githubpages)](https://pages.github.com/)
