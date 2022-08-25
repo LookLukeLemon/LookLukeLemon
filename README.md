@@ -47,7 +47,6 @@ Website : [InfinitySquare](https://infinitysquare.io)
 [![amazon-rds](https://img.shields.io/badge/Rds-black?style=for-the-badge&logo=amazonrds)](https://aws.amazon.com/rds/)
 [![nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx&logoColor=009639)](https://www.nginx.com/)
 [![slack](https://img.shields.io/badge/Slack-black?style=for-the-badge&logo=slack&logoColor=FF6058)](https://slack.com/)
-[![lerna](https://img.shields.io/badge/lerna-black?style=for-the-badge&logo=lerna&logoColor=9333EA)](https://lerna.js.org/)
 [![elasticbeanstalk](https://img.shields.io/badge/elastic--beanstalk-black?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjMuNzUgODUiIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjx1c2UgeGxpbms6aHJlZj0iI0EiIHg9IjEuODc1IiB5PSIyLjUiLz48c3ltYm9sIGlkPSJBIiBvdmVyZmxvdz0idmlzaWJsZSI+PGcgc3Ryb2tlPSJub25lIj48cGF0aCBkPSJNMTkuNzExIDQuOTU2VjQwaC00LjI0N3YzMy4wMDNMMzAgODBsOC43NDYtNDBMMzAgMCAxOS43MTEgNC45NTZ6IiBmaWxsPSIjOWQ1MDI1Ii8+PHBhdGggZD0iTTMwIDB2NDAgNDBsMTAuMjg5LTQuOTU2VjQwaDQuMjQ3VjYuOTk3TDMwIDB6IiBmaWxsPSIjZjU4NTM2Ii8+PHBhdGggZD0iTTYwIDI5Ljc3N0w0MS42MSAzMS40NDlsLTYuMDQyLS43MjkgMTkuMTY2LTE4LjgwNUw2MCAyOS43Nzd6IiBmaWxsPSIjNmIzYTE5Ii8+PHBhdGggZD0iTTU0LjczNCAxMS45MTVMNjAgMTQuNDUxdjE1LjMyNmwtNS4yNjYtMS4wMTFWMTEuOTE1eiIgZmlsbD0iI2Y1ODUzNiIvPjxwYXRoIGQ9Ik0zNS41NjggMzAuNzJsMTkuMTY2LTEuOTUzVjExLjkxNUwzNS41NjggMTYuOTFWMzAuNzJ6IiBmaWxsPSIjOWQ1MDI1Ii8+PHBhdGggZD0iTTAgNTAuMjI0bDE4LjM4OS0xLjY3MiA2LjA0Mi43MjlMNS4yNjYgNjguMDg2IDAgNTAuMjI0eiIgZmlsbD0iI2ZiYmY5MyIvPjxwYXRoIGQ9Ik01LjI2NiA2OC4wODZMMCA2NS41NVY1MC4yMjRsNS4yNjYgMS4wNjl2MTYuNzkzeiIgZmlsbD0iIzlkNTAyNSIvPjxwYXRoIGQ9Ik0yNC40MzIgNDkuMjgxTDUuMjY2IDUxLjI5M3YxNi43OTNsMTkuMTY2LTQuOTk1VjQ5LjI4MXoiIGZpbGw9IiNmNTg1MzYiLz48L2c+PC9zeW1ib2w+PC9zdmc+)](https://aws.amazon.com/elasticbeanstalk/)
 [![vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
 [![sentry](https://img.shields.io/badge/sentry-black?style=for-the-badge&logo=sentry&logoColor=E1567C)](https://sentry.io/)
@@ -276,7 +275,6 @@ Website : [Voom](https://voom.cf)
 [![kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
 [![jwt](https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=jsonwebtokens&logoColor=D63AFF)](https://jwt.io/)
 [![nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx&logoColor=009639)](https://www.nginx.com/)
-[![lerna](https://img.shields.io/badge/lerna-black?style=for-the-badge&logo=lerna&logoColor=9333EA)](https://lerna.js.org/)
 
 ---
 
@@ -310,7 +308,6 @@ Website : [Streeticon](https://streeticon-web.netlify.app/)
 [![mongodb](https://img.shields.io/badge/Mongodb-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![jwt](https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=jsonwebtokens&logoColor=D63AFF)](https://jwt.io/)
 [![nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx&logoColor=009639)](https://www.nginx.com/)
-[![lerna](https://img.shields.io/badge/lerna-black?style=for-the-badge&logo=lerna&logoColor=9333EA)](https://lerna.js.org/)
 [![netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
 
 ---
