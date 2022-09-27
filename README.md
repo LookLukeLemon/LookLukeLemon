@@ -1,5 +1,6 @@
 ### Todo stack ✨
 
+[![planetscale](https://img.shields.io/badge/planetscale-DDF56D?style=for-the-badge&logo=planetscale)](https://planetscale.com/)
 [![trpc](https://img.shields.io/badge/trpc-DDF56D?style=for-the-badge&logo=trpc)](https://trpc.io/)
 [![zustand](https://img.shields.io/badge/zustand-DDF56D?style=for-the-badge&logo=zustand)](https://github.com/pmndrs/zustand)
 [![svelte](https://img.shields.io/badge/svelte-DDF56D?style=for-the-badge&logo=svelte)](https://svelte.dev/)
